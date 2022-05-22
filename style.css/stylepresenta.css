@@ -1,0 +1,21 @@
+*{
+	margin: 0px;
+	padding: 0px;
+	box-sizing: border-box;
+}
+body{
+	font-family:arial;
+	background:#FFFFFF;
+	margin:0;
+}
+.header1 {
+	background-image: url(../imagenes/inicio.jpg);
+	height: 800px;
+}
+marquee{
+	color: white;
+	font-family: Cooper Black;
+	-webkit-text-stroke: 4px black;
+	font-size: 100PX;
+	
+}
